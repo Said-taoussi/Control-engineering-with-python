@@ -8,13 +8,13 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9U
 
 Your team: group number ❔
 
-  - Student 1: Said ET-TOUSY (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 1: Said ET-TOUSY 'Said-taoussi'
 
-  - Student 2: Reda NASSIF (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 2: Reda NASSIF 'RedaNASSIFemines' 
   
-  - Student 3: Anas NADIF (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 3: Anas NADIF 
 
-  - Student 4: Marouane AMAADOUR (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 4: Marouane AMAADOUR 'Marouane48'
 
 ## Getting Started
 
