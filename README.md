@@ -8,7 +8,7 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9U
 
 Your team: group number 6
 
-  - Student 1: Said ET-TOUSY 'Said-taoussi'
+  - Student 1: Said ET-TOUSY @Said-taoussi
 
   - Student 2: Reda NASSIF 'RedaNASSIFemines' 
   
